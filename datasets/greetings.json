@@ -1,0 +1,10 @@
+{
+    "greetings": [
+        {
+            "patterns": ["Hi", "Hello", "Hey", "Hey there", "Good morning",
+            "Hi!", "Hello!", "Hey!", "Hey there!", "Good morning!"],
+            "responses": ["Hello!", "Hi!", "Hey!", "Hi, how can I help you?",
+            "Hello, what can I do for you today?"]
+        }
+    ]
+}
