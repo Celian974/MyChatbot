@@ -1,0 +1,9 @@
+{
+    "goodbyes": [
+        {
+            "patterns": ["Bye", "Goodbye", "See ya", "See you later", "Later"],
+            "responses": ["Bye!", "Goodbye!", "See you later!",
+            "Bye! Have a nice day!", "See you soon!", "Bye-bye!", "Take care!"]
+        }
+    ]
+}
