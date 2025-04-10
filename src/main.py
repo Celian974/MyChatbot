@@ -4,13 +4,12 @@ from load_dataset import load_dataset
 from greet import greet
 from goodbye import goodbye
 
-
 print(Fore.CYAN + "Welcome to this simple Chatbot. Type \'exit\' or \'quit\' to end the program.")
 
 end_chat = ["quit", "exit"]
 
 while True:
-    user_entry = input(Fore.WHITE + ">>> ").strip().lower()
+    user_entry = input(Fore.MAGENTA + ">>>" + Fore.WHITE + " ").strip().lower()
 
     if user_entry in end_chat:
         print(Fore.LIGHTBLACK_EX + "Exiting Chatbot...")
